@@ -17,3 +17,7 @@ https://davidhjolley.github.io/Javascript-Password-Generator
 # Licence
 
 Open source, MIT.
+
+# Link to application
+
+https://davidhjolley.github.io/Javascript-Password-Generator/
