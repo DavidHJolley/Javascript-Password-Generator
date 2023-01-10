@@ -7,3 +7,13 @@ The user is prompted for these options and the final password is generated based
 This code can be used to create a more secure password for online accounts and other use cases.
 
 ## Screenshot
+
+![Screenshot](/assets/Capture.PNG)
+
+# Deployed Application Link 
+
+https://davidhjolley.github.io/Javascript-Password-Generator
+
+# Licence
+
+Open source, MIT.
